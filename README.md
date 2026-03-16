@@ -22,7 +22,7 @@ El objetivo es mostrar cómo el **análisis de datos puede utilizarse para estud
 
 ---
 
-# 👨‍💻 Autores
+# Autores
 
 - Felipe Tamaki  
 - Matías Goldschmidt  
